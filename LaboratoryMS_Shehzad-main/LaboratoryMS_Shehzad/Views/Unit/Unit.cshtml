@@ -1,0 +1,38 @@
+﻿
+
+@{
+    ViewData["Title"] = "UnitPrice";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="content">
+    <div class="row m-t-3">
+        <div class="col-lg-12">
+            <div class="card ">
+                <div class="card-header bg-blue">
+                    <h5 class="text-white m-b-0">Unit Price</h5>
+                </div>
+                <div class="card-body">
+
+                    <form method="post">
+                        <input type="hidden" id="UnitID" />
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group has-feedback">
+                                    <label class="control-label">Price</label>
+                                    <input class="form-control" placeholder="Unit Price" type="text">
+                                    <span class="fa fa-money form-control-feedback" aria-hidden="true"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <button type="submit" onclick="AddUnit();" class="btn btn-success">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<partial name="Unit_Details" />

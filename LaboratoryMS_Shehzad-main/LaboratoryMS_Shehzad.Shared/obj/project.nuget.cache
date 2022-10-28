@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhVIPHenwEJGrdj3b6S0hL+cBYa6Rv4WU3+OrCs/E0NZHyytVwU6dC/yTDWnSgeXhjG1rmfdh5+2K//n5zQZMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msheh\\OneDrive\\Desktop\\GitHub\\LaboratoryMS_Shehzad\\LaboratoryMS_Shehzad.Shared\\LaboratoryMS_Shehzad.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msheh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\msheh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\msheh\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

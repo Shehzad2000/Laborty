@@ -1,0 +1,24 @@
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.deps.json
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.dll
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.pdb
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.AssemblyInfoInputs.cache
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.AssemblyInfo.cs
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.dll
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.pdb
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Shared.dll
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Shared.pdb
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.csprojAssemblyReference.cache
+C:\Users\Waqas Ahmad\Desktop\Github\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.csproj.CopyComplete
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.csproj.AssemblyReference.cache
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.AssemblyInfoInputs.cache
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.AssemblyInfo.cs
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.csproj.CoreCompileInputs.cache
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.dll
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.pdb
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.deps.json
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.dll
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.pdb
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Shared.dll
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\bin\Debug\netstandard2.0\LaboratoryMS_Shehzad.Shared.pdb
+C:\Users\msheh\OneDrive\Desktop\GitHub\LaboratoryMS_Shehzad\LaboratoryMS_Shehzad.Core\obj\Debug\netstandard2.0\LaboratoryMS_Shehzad.Core.csproj.CopyComplete
